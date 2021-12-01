@@ -8,11 +8,11 @@ I like to create algorithms that facilitate work and optimize functions
 
 ```
 object **DAV4** {
- val name = "Diego Andres Velásquez Avila"
- val acknowledgements = "Software/Web Developer"
+ var name = "Diego Andres Velásquez Avila"
+ var acknowledgements = "Software/Web Developer"
  
- val languages = listOf("Python", "JavaScript") 
- val framework = listOf("Django", "React", "NodeJS", "Flask")
+ var languages = listOf("Python", "JavaScript") 
+ var framework = listOf("Django", "React", "NodeJS", "Flask")
 
 }
 ```
