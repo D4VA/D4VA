@@ -1,7 +1,7 @@
   <a href="https://github.com/D4VA">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4va&title_color=002573&text_color=002573" />
   </a>
-  <a href="https://github.com/ktoxcon">
+  <a href="https://github.com/D4VA">
     <img src="https://github-readme-stats.vercel.app/api?username=d4va&title_color=002573&show_icons=true&3&icon_color=28057D" />
   </a>
   <hr>
