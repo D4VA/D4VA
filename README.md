@@ -41,7 +41,7 @@ object **DAV4** {
 
 [website]: https://github.com/D4VA
 [twitter]: https://twitter.com/1da_avila
-[linkedin]: https://www.linkedin.com/in/diego-andres-velasquez/
+[linkedin]: https://www.linkedin.com/in/diego-andres-velasquez-avila/
 <br>
 
 #### Social networks!
