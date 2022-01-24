@@ -39,6 +39,10 @@ object **DAV4** {
 <a href="https://github.com/D4VA">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=D4VA&show_icons=true&theme=dracula&line_height=27" alt="**D4VA** github stats"/>
 </a>
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/D4VA/count.svg" />
+</p>
 
 [website]: https://github.com/D4VA
 [twitter]: https://twitter.com/1da_avila
